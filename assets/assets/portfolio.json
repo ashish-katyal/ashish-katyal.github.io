@@ -1,0 +1,133 @@
+{
+    "name_and_link": [
+        "Ashish Katyal",
+        "https://github.com/ashish-katyal/"
+    ],
+    "designation": [
+        "CS Undergrad.",
+        "Flutter Developer."
+    ],
+    "resume_download_link": "https://drive.google.com/file/d/1zMUrNgfc4GTFFXpB7PxhfNPllmZoH893/view?usp=sharing",
+    "social_media": {
+        "1": [
+            "https://github.com/ashish-katyal/",
+            "github"
+        ],
+        "2": [
+            "https://leetcode.com/ashishkatyal67/",
+            "leetcode"
+        ],
+        "3":[
+            "https://www.codingninjas.com/codestudio/profile/31a1e992-50f5-42a5-bda1-1d6d585f7acd",
+            "codestudio"
+        ],
+        "4": [
+            "https://www.linkedin.com/in/ashish-katyal-4a8a3a193/",
+            "linkedin"
+        ],
+        "5": [
+            "mailto:ashishkatyal67@gmail.com",
+            "email"
+        ]
+      
+    },
+    "contact_me": {
+        "location": "Delhi, India",
+        "open_for_opportunities": "Yes",
+        "picture": "picture.png"
+    },
+    "about": "A hard-working and passionate guy, I always work towards achieving best result on each work I lay my hands on.",
+    "bio": "Computer Science Engineering student. I spend my leisure time solving problems on leetcode and codestudio. I've experience in working on several projects that use Flutter, C# and .NET etc.",
+    "what_i_do": {
+        "tools": [
+            "flutter.png",
+            "firebase.png",
+            "c.png",
+            "cpp.png",
+            "java.png",
+            "csharp.png"
+
+        ],
+        "proficiency": [
+            "Flutter--50",
+            "C/C++--80",
+            "DSA--75",
+            "C# .NET--40"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "Bharati Vidyapeeth's College of Engineering",
+            "location": "Delhi",
+            "years": "2019 - 2023",
+            "description": "B.Tech in CSE",
+            "grades": "9.37 CGPA",
+            "logo": "bvcoe.png"
+        },
+        "2": {
+            "institute": "Shri Baba Mastnath Sr Sec Public School",
+            "location": "Rohtak, Haryana",
+            "years": "2018-2019",
+            "description": "XII",
+            "grades": "91.80%",
+            "logo": "smp.png"
+        },
+        "3": {
+            "institute": "Shri Baba Mastnath Sr Sec Public School",
+            "location": "Rohtak, Haryana",
+            "years": "2016-2017",
+            "description": "X",
+            "grades": "10.00 CGPA",
+            "logo": "smp.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "GrapeCity",
+            "role": "Software Engineer Intern",
+            "period": "July 2022",
+            "description": "Learned and implemented C# and .NET concepts. Developed OOPs based Math Library for a calculator which is scalable and robust. The operator symbols and precedences are imported from a JSON file. The GUI is built using Windows Forms Library that is part of .NET framework. The buttons are added dynamically as per the number of operators read from the JSON file provided, makes it very convenient to add more operators with few changes.",
+            "image_name": "grapecity.png"
+        }
+    },
+    "projects": {
+        "1": {
+            "name": "Flutter Chat",
+            "tech_stack_used": "Flutter & Dart, Firebase",
+            "description": "A real-time chatting application build using Flutter framework and backend on Firebase. Implemented functionality like authentication, login or signup using email and password, upload profile picture. Firestore Database and Storage is used to store user’s data and chats",
+            "general_or_github_link": "https://github.com/ashish-katyal/flutter-chat/"
+        },
+        "2": {
+            "name": "Maze Solving Visualizer",
+            "tech_stack_used": "Flutter Web",
+            "description": "A maze is solved starting from source to destination using recursion and backtracking approach. If at some point, the path is blocked it backtracks to find new path. It is visualized using Flutter framework as well as using C++ with its graphics.h library.",
+            "general_or_github_link": "https://maze-ashishkatyal.000webhostapp.com"
+        },
+        "3": {
+            "name": "Personal Expenses Manager",
+            "tech_stack_used": "Flutter & Dart",
+            "description": "A mobile application that manages your weekly personal expenses. Implemented functionality like add transaction, delete transaction, weekly bar chart, date picker.",
+            "general_or_github_link": "https://github.com/ashish-katyal/personal-expenses"
+        },
+        "4": {
+            "name": "Calculator",
+            "tech_stack_used": "C#, .NET",
+            "description": "OOPs based Math Library for a calculator which is scalable and robust. The operator symbols and precedences are imported from a JSON file. The GUI is built using Windows Forms Library that is part of .NET framework.",
+            "general_or_github_link": "https://github.com/ashish-katyal/MathLibrary"
+        }
+    },
+    "achievements": {
+        "1": {
+            "description": "Ranked among the toppers in my branch. Ranked first in the 1st year of B.Tech.",
+            "link": "https://www.ipuranklist.com/student/20351202719/03451203119"
+        },
+        "2": {
+            "description": "Solved 100+ Competitive Programming problems on CodeChef and participated in many contest and attained good ranks.",
+            "link": "https://www.codechef.com/users/ashishkatyal"
+        },
+        "3": {
+            "description": "3 star on CodeChef and Expert on CodeStudio.",
+            "link": "https://www.codingninjas.com/codestudio/profile/31a1e992-50f5-42a5-bda1-1d6d585f7acd"
+        }
+    }
+}
